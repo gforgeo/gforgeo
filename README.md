@@ -35,13 +35,13 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammed-shawkath-v-i-b246b6285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="#">
+    <img src="#"/>
   </a>
   <a href="https://x.com/TheMyst48853387?t=zeWFiAcx4So4RDPWCG2X8Q&s=09">
-    <img src="https://img.shields.io/badge/-X(Twitter)-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+    <img src="#"/>
   </a>
-  <a href="mailto:shawkathvimuhammed@gmail.com">
+  <a href="#">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
